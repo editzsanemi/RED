@@ -1,1 +1,1 @@
-https://github.com/editzsanemi/RED/raw/main/RED LOADER.exe
+https://github.com/editzsanemi/RED/raw/main/example_win32_directx11.exe
